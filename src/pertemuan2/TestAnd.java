@@ -1,8 +1,5 @@
 package pertemuan2; //folder pertemuan2
-/*Nama : Agus Saputra
- *NPM : 13120036
- *kelas : B
- */
+
 public class TestAnd { //class TestAnd
     public static void main(String[] args) {//fungsi method utama dalam sebuah program
      int i=0; //inisialisasi type data integer dengan variabel i yg bernilai o
